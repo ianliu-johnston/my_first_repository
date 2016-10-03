@@ -1,0 +1,1 @@
+This is the first README in my_first_repository on GitHub as a Holberton Student. It is to fulfill requirements for the assignment "0x03. Git".
